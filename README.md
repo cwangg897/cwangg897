@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cwangg897
+- 👋 Hi, I’m choi wang gyu
 - 👀 I’m interested in ... Java, Python
 - 🌱 I’m currently learning ... Java and I'm going to learn Spring
 - 💞️ I’m looking to collaborate on ...
