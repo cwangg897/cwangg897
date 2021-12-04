@@ -11,8 +11,6 @@
 
 
 - 👋 Hi, I’m Choi Wang Gyu
-- 👀 I’m interested in  Java
-- 🌱 I’m currently learning  Java and I'm going to learn Spring
 
 <!---
 cwangg897/cwangg897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
