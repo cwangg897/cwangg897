@@ -1,35 +1,25 @@
 <div align="center">
-  
-<!--소개-->
 
-## Introduction :raised_hands:
-Hi, I am trying to become a developer😎
-<br/><br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:a6c1ee&height=300&section=header&text=Wang%20Gyu's%20github&fontSize=90&fontColor=FFFFFF)
+### ✨  Choi Wang Gyu
 
- 
-  ### 🐣 Choi Wang Gyu 🐥 
-  
-  ---
-<a href="https://cwangg897.tistory.com/">
-  <br>
+</br>
 
- <!--기술스택-->
-  ## Skill :four_leaf_clover:
+ ### 🌱 Info 
+Email: dhkdrb897@gmail.com </br>
+Blog : https://cwangg897.tistory.com/
 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <br/>
-  <!--언어 및 툴 -->
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+</br>
 
-<br><br>
+### 🛠 Tech 
+<p align="center">
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="84" height="84" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="84" height="84" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="84" height="84" />
+<img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring-boot" wide="70" height="70">
+</div>
 
-<!---
-cwangg897/cwangg897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwangg897&show_icons=true&theme=radical)
+
+</p>
+
+</br></br>
 
 </div>
