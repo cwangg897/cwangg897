@@ -1,28 +1,19 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:a6c1ee&height=300&section=header&text=Wang%20Gyu's%20github&fontSize=90&fontColor=FFFFFF)
-### ✨  Choi Wang Gyu
-
-</br>
-
- ### 🌱 Info 
-Email: dhkdrb897@gmail.com </br>
-Blog : https://cwangg897.tistory.com/
-
-</br>
-
-### 🛠 Tech 
-<p align="center">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="84" height="84" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="84" height="84" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="84" height="84" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="84" height="84" />
-<img src="https://user-images.githubusercontent.com/38103085/181780616-1a299b1f-990a-468b-b708-dec753ba7851.png" alt="spring-boot" wide="70" height="70">
-<br>
-
-source : https://techstack-generator.vercel.app/
-</div>
+### 🤞 안녕하세요 최왕규 입니다
+#### 제가 한 프로젝트가 궁금하다면 클릭해 주세요.<br>
+[포트폴리오](https://transparent-bugle-0d4.notion.site/ee6934edca1e45ffa8268fff5c783ac0)<br>
 
 
+
+### 💪 Skills
+<p>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
 </p>
 
-</br></br>
 
-</div>
