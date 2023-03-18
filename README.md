@@ -1,8 +1,4 @@
 ### 🤞 안녕하세요 최왕규 입니다
-#### 제가 한 프로젝트가 궁금하다면 클릭해 주세요.<br>
-[포트폴리오](https://transparent-bugle-0d4.notion.site/ee6934edca1e45ffa8268fff5c783ac0)<br>
-
-
 
 ### 💪 Skills
 <p>
@@ -15,5 +11,6 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
 </p>
+
 
 
