@@ -1,4 +1,6 @@
-### 🤞 안녕하세요 최왕규 입니다
+### 🤞 안녕하세요, 최왕규입니다.
+- I'm currently interested in backend development.
+- I’m currently learning Spring.
 
 ### 💪 Skills
 <p>
