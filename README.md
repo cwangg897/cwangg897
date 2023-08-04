@@ -1,6 +1,6 @@
 ### 🤞 안녕하세요, 최왕규입니다.
 - I'm currently interested in backend development.
-- I’m currently learning js and k8s.
+- I’m currently learning SAA.
 
 ### 💪 Skills
 <p>
