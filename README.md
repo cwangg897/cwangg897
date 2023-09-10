@@ -1,6 +1,5 @@
-### 🤞 안녕하세요, 최왕규입니다.
+### 🤞 안녕하세요, 최왕규입니다
 - I'm currently interested in backend development.
-- I’m currently learning SAA.
 
 ### 💪 Skills
 <p>
@@ -15,4 +14,5 @@
 </p>
 
 
-
+### Certificate 
+<a  href="https://www.credly.com/badges/fbf518b1-752b-4e48-b6b8-6c26f84d4446/public_url">AWS-SAA</a>
