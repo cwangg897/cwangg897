@@ -15,4 +15,4 @@
 
 
 ### Certificate 
-<a  href="https://www.credly.com/badges/fbf518b1-752b-4e48-b6b8-6c26f84d4446/public_url">AWS-SAA</a>
+![aws-certified-solutions-architect-associate (1)](https://github.com/cwangg897/cwangg897/assets/79621675/c0fbc2a7-5420-423c-a4ac-bfa01eb28ba4)
