@@ -33,5 +33,5 @@
 
 ## 📫 Contact
 
-- GitHub: [@cwangg897](https://github.com/cwangg897)
+- blog: [Velog](https://velog.io/@cwangg897/posts)
 - Email: **dhkdrb897@gmail.com**
