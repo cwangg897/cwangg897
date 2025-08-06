@@ -20,13 +20,14 @@
 ![aws-certified-solutions-architect-associate (1)](https://github.com/cwangg897/cwangg897/assets/79621675/c0fbc2a7-5420-423c-a4ac-bfa01eb28ba4)
 
 ---
-
 ## 🌱 Open Source Contributions
 
 | Project | Contribution | PR/Issue | Status |
 |--------|--------------|----------|--------|
 | [Spring Data JPA](https://github.com/spring-projects/spring-data-jpa) | Avoid double-parenthesis in JpqlQueryBuilder.InPredicate rendering | [#3962](https://github.com/spring-projects/spring-data-jpa/pull/3962) | 🟢 Merged |
-| [Spring Kafka](https://github.com/spring-projects/spring-kafka) | Improve performance of ContainerProperties and ConsumerProperties toString() methods using StringBuilder | [#2541](https://github.com/spring-projects/spring-kafka/pull/2541) | 🟢 Merged |
+| [Spring Kafka](https://github.com/spring-projects/spring-kafka) | Improve performance of ContainerProperties and ConsumerProperties toString() methods using StringBuilder | [#4013](https://github.com/spring-projects/spring-kafka/pull/4013) | 🟢 Merged |
+| [Spring Kafka](https://github.com/spring-projects/spring-kafka) | Fix updateClusterId logic | [#4027](https://github.com/spring-projects/spring-kafka/pull/4027) | 🟢 Merged |
+| [Spring Kafka](https://github.com/spring-projects/spring-kafka) | Refactor newTopics to remove nested loops | [#4026](https://github.com/spring-projects/spring-kafka/pull/4026) | 🟢 Merged |
 
 ---
 
